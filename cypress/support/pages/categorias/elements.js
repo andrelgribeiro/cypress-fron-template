@@ -1,0 +1,17 @@
+export const ELEMENTS = {
+    email: 'input[type="email"]',
+    senha: 'input[type="password"]',
+    botaoLogin: 'input[type="submit"]',
+    naoMostrar: 'input[name="DontShowAgain"]',
+    campoNome: '[formcontrolname="name"]',
+    campoDescricao: '[formcontrolname="description"]',
+    botaoSalvar: 'button[type="submit"]',
+    botaoCancelar: 'button[type="button"]',
+    listaCategorias: 'div[class="list"]',
+    alerta: '[role="alert"]',
+    firstDownButton: '.list-item:first-child:not(.p-grid) [icon="ui-icon-keyboard-arrow-down"]',
+    firstItemName: '.list-item:first-child:not(.p-grid) .p-col:nth-child(2)',
+    firstCategorieFilter: '.nav-item.ng-star-inserted:nth-child(2)',
+    lastDeleteButton: '.list-item:last-child:not(.p-grid) [icon="ui-icon-delete"]',
+    confirmDialog: 'p-confirmdialog .ui-confirmdialog-acceptbutton',
+}
