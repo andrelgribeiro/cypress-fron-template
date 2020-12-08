@@ -1,4 +1,4 @@
-# vv-api-products-front - Testes/Front 
+# front - Testes/Front 
 Projeto criado para automação de testes de projetos font, usando stack de cypress. 
 
 ### Pré requisitos
